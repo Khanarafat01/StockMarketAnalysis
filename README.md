@@ -48,7 +48,7 @@ The final output is **StockSage** — an intuitive, clean, and user-friendly das
 
 Thank you for visiting my project! 💬  
 I'm always excited to connect, collaborate, and learn with fellow data enthusiasts! 🚀  
-If you have any feedback, suggestions, or just want to chat about data, feel free to reach out to me on [LinkedIn](your-linkedin-link)! 🤝  
+If you have any feedback, suggestions, or just want to chat about data, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/arafat-khan-4644b7314/)! 🤝  
 Let's grow and innovate together! 🌟
 
 ---
